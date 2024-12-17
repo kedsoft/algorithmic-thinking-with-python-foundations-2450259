@@ -3,7 +3,7 @@ Ferrying Soldiers Puzzle Python Implementation
 Robin Andrews - https://compucademy.net/
 """
 
-NUM_SOLDIERS = 20
+NUM_SOLDIERS = 4
 
 
 def print_state(state, moves_taken):
