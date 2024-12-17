@@ -25,7 +25,6 @@ graph = {
    "G": {"F": 2.5, "E": 7, "D": 10},
 }
 
-
 visited = []
 distances = {node: float("inf") for node in graph}
 distances[START] = 0
